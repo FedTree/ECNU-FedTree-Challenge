@@ -87,5 +87,5 @@ The goal is to achieve the best AUC for each federated setting listed in Step 2 
 
 ## Submission
 You need to submit a zip file including 1) a report to briefly describe your understanding of the problem, your solution, results, and findings (<= 2 pages); 2) the configuration file for each setting; 3) any source code you have implemented for your solution.
-The code of FedTree does not need to submit if you do not modify it.
+You do not need to submit the code of FedTree if you do not modify it.
 Please email your submission to `liqinbin1998@gmail.com`.
