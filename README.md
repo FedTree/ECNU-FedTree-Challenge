@@ -16,7 +16,7 @@ Then, you need to develop the training model based on FedTree. The goal is to ac
 ## Setup
 
 ### Step 1 - Install FedTree
-Please fork the [FedTree](https://github.com/Xtra-Computing/FedTree) repo and install it from source according to its document.
+Please fork the [FedTree](https://github.com/Xtra-Computing/FedTree) repo and install it from source according to its document (install the standalone version is enough).
 
 ### Step 2 - Simulate the Federated Setting
 
@@ -88,4 +88,3 @@ The goal is to achieve the best AUC for each federated setting listed in Step 2 
 ## Submission
 You need to submit a zip file including 1) a report to briefly describe your understanding of the problem, your solution, results, and findings (<= 2 pages); 2) the configuration file for each setting; 3) link to the source code you have implemented for your solution (if any).
 You do not need to submit the code of FedTree if you do not modify it.
-Please email your submission to `liqinbin1998@gmail.com`.
